@@ -12,6 +12,19 @@ ___
  | Tiger Lake UP4 4+2 | B-1 |  
   
 ___  
+**File Name: m_80_806c1_0000009a.pdb**  
+  
+ | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |  
+ | :--------------------- | :----------- | :----------- | :---- | :------------------- | :------------------ |  
+ | 06-8c-01 | 00000080 | 0000009a | 2021-08-06 | 000806c1 |  |  
+  
+ | Codename | Stepping |  
+ | :--- | :--- |  
+ | Tiger Lake 4+2 - UP3 | B-0 |  
+ | Tiger Lake UP3 4+2 | B-1 |  
+ | Tiger Lake UP4 4+2 | B-1 |  
+  
+___  
 **File Name: m_c2_806d1_0000003c.pdb**  
   
  | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |  
