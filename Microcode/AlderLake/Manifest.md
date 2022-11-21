@@ -12,6 +12,22 @@ ___
 ___
 
 ___
+**File Name: m_07_90672_00000025.pdb**
+
+ | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |
+ | :--------------------- | :----------- | :----------- | :---- | :------------------- | :------------------ |
+ | 06-97-02 | 00000007 | 00000025 | 2022-08-01 | 00090672 |  (06-97-02/00000007) (06-97-05/00000007) (06-bf-02/00000007) (06-bf-05/00000007) |
+
+ | Codename | Stepping |
+ | :--- | :--- |
+ | Alder Lake-HX  8+8 BGA | C-0 |
+ | Alder Lake-S 8+8 LGA | C-0 |
+ | Alder Lake-S 6+0 LGA | K-0 |
+ | Unannounced | N/A |
+
+___
+
+___
 **File Name: m_80_906a3_00000421.pdb**
 
  | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |
