@@ -23,3 +23,18 @@ ___
  | Alder Lake-P 28 | R-0 |
  | Alder Lake-P 68 | L-0 |
 ___
+
+___
+**File Name: m_80_906a3_00000423.pdb**
+
+ | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |
+ | :--------------------- | :----------- | :----------- | :---- | :------------------- | :------------------ |
+ | 06-9a-03 | 00000080 | 00000423 | 2022-08-01 | 000906a3 |  (06-9a-03/00000080) (06-9a-04/00000080) |
+
+ | Codename | Stepping |
+ | :--- | :--- |
+ | Alder Lake-P 28 | R-0 |
+ | Arizona Beach | R-0 |
+ | Alder Lake-P 68 | L-0 |
+ | Alder Lake-U 9W | R-0 |
+___
