@@ -62,3 +62,15 @@ ___
  | Tiger Lake H 8+1 | R-0 |  
   
 ___  
+**File Name: m_c2_806d1_00000042.pdb**  
+  
+ | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |  
+ | :--------------------- | :----------- | :----------- | :---- | :------------------- | :------------------ |  
+ | 06-8d-01 | 000000c2 | 00000042 | 2022-06-28 | 000806d1 |  |  
+  
+ | Codename | Stepping |  
+ | :--- | :--- |  
+ | Tiger Lake H 8+1 | R-0 |  
+  
+___  
+
