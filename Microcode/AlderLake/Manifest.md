@@ -71,6 +71,20 @@ ___
 
 ___
 
+___  
+**File Name: m_80_906a3_0000042a.pdb**  
+  
+ | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |  
+ | :--------------------- | :----------- | :----------- | :---- | :------------------- | :------------------ |  
+ | 06-9a-03 | 00000080 | 0000042a | 2023-02-14 | 000906a3 |  (06-9a-03/00000080) (06-9a-04/00000080) |  
+  
+ | Codename | Stepping |  
+ | :--- | :--- |  
+ | Alder Lake-P 2+8 | R-0 |  
+ | Unannounced | N/A |  
+  
+___  
+
 ___
 **File Name: m_01_b06e0_0000000f.pdb**
 
