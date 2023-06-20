@@ -27,6 +27,29 @@ ___
 
 ___
 
+___  
+**File Name: m_07_90672_0000002c.pdb**  
+  
+ | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |  
+ | :--------------------- | :----------- | :----------- | :---- | :------------------- | :------------------ |  
+ | 06-97-02 | 00000007 | 0000002c | 2023-01-04 | 00090672 |  (06-97-02/00000007) (06-97-05/00000007) (06-bf-02/00000007) (06-bf-05/00000007) |  
+  
+ | Codename | Stepping |  
+ | :--- | :--- |  
+ | Alder Lake-HX  8+8 BGA | C-0 |  
+ | Alder Lake-S 8+8 LGA | C-0 |  
+ | Alder Lake-S BGA | C-0 |  
+ | Alder Lake-S 6+0 LGA | H-0 |  
+ | Alder Lake-S 6+0 LGA | K-0 |  
+ | Alder Lake-S 8+8 | H-0 |  
+ | RPL-S-881 LGA + ADP-H | C-0 |  
+ | Raptor Lake-HX 8+8 BGA | C-0 |  
+ | Raptor Lake-S 8+8 LGA | C-0 |  
+ | RPL-S-881 LGA + ADP-H | C-0 |  
+ | Raptor Lake-S 6+0 LGA | H-0 |  
+  
+___  
+
 ___
 **File Name: m_80_906a3_00000421.pdb**
 
