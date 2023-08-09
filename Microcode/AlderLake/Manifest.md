@@ -144,3 +144,17 @@ ___
  | Alder Lake N | A-0 |
 
 ___
+
+___
+**File Name: m_40_906a4_00000005.pdb**
+
+ | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |
+ | :--------------------- | :----------- | :----------- | :---- | :------------------- | :------------------ |
+ | 06-9a-04 | 00000040 | 00000005 | 2023-05-05 | 000906a4 |  |
+
+ | Codename | Stepping |
+ | :--- | :--- |
+ | Arizona Beach | A-0 |
+ | Arizona Beach | R-0 |
+
+___
