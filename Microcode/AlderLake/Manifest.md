@@ -152,19 +152,6 @@ ___
 ___  
 
 ___
-**File Name: m_01_b06e0_00000010.pdb**
-
- | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |
- | :--------------------- | :----------- | :----------- | :---- | :------------------- | :------------------ |
- | 06-be-00 | 00000001 | 00000010 | 2022-12-19 | 000b06e0 |  |
-
- | Codename | Stepping |
- | :--- | :--- |
- | Alder Lake N | A-0 |
-
-___
-
-___
 **File Name: m_40_906a4_00000005.pdb**
 
  | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |
@@ -175,5 +162,19 @@ ___
  | :--- | :--- |
  | Arizona Beach | A-0 |
  | Arizona Beach | R-0 |
+
+___
+
+___
+**File Name: m_11_b06e0_00000012.pdb**
+
+ | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |
+ | :--------------------- | :----------- | :----------- | :---- | :------------------- | :------------------ |
+ | 06-be-00 | 00000011 | 00000012 | 2023-06-26 | 000b06e0 |  |
+
+ | Codename | Stepping |
+ | :--- | :--- |
+ | Alder Lake N | N-0 |
+ | Alder Lake-N | A-0 |
 
 ___
