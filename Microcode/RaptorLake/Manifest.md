@@ -44,3 +44,19 @@ ___
  | Raptor Lake-S-8161 + ADP-H, RPL-S-8161 + RPP-H | B-0 |  
   
 ___  
+
+___  
+**File Name: m_e0_b06a2_0000411d.pdb**  
+  
+ | Family-Model-Stepping | Platform ID | Revision ID | Processor Signature | Extended Signature |  
+ | :--------------------- | :----------- | :----------- | :------------------- | :------------------ |  
+ | 06-ba-02 | 000000e0 | 0000411d | 000b06a2 | 000b06a2 000b06a3 |  
+  
+ | Codename | Stepping |  
+ | :--- | :--- |  
+ | Raptor Lake-P 6+8 | J-0 |  
+ | Raptor Lake-H 6+8 | J-0 |  
+ | Raptor Lake-PX 6+8 | J-0 |  
+ | Raptor Lake-U 2+8 | Q-0 |  
+
+ ___  
