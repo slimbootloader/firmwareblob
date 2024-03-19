@@ -46,6 +46,19 @@ ___
 ___  
 
 ___  
+**File Name: m_32_b0671_00000120.pdb**  
+  
+ | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |  
+ | :--------------------- | :----------- | :----------- | :---- | :------------------- | :------------------ |  
+ | 06-b7-01 | 00000032 | 00000120 | 2023-10-18 | 000b0671 |  |  
+  
+ | Codename | Stepping |  
+ | :--- | :--- |  
+ | Raptor Lake-S-8161 + ADP-H, RPL-S-8161 + RPP-H | B-0 |  
+  
+___  
+
+___  
 **File Name: m_e0_b06a2_0000411d.pdb**  
   
  | Family-Model-Stepping | Platform ID | Revision ID | Processor Signature | Extended Signature |  
