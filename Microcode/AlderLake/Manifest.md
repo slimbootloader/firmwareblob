@@ -263,3 +263,17 @@ ___
  | Raptor Lake-S Refresh 6+0 LGA | H-0 |
 
 ___
+___  
+**File Name: m_11_b06e0_00000017.pdb**  
+  
+ | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |  
+ | :--------------------- | :----------- | :----------- | :---- | :------------------- | :------------------ |  
+ | 06-be-00 | 00000011 | 00000017 | 2023-12-07 | 000b06e0 |  |  
+  
+ | Codename | Stepping |  
+ | :--- | :--- |  
+ | Alder Lake N | N-0 |  
+ | Alder Lake-N | A-0 |  
+ | Twin Lake | N-0 |  
+  
+___  
