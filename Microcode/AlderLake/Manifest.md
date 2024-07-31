@@ -1,4 +1,4 @@
-___
+q___
 **File Name: m_07_90672_00000023.pdb**
 
  | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |
@@ -277,3 +277,22 @@ ___
  | Twin Lake | N-0 |  
   
 ___  
+
+___
+**File Name: m_80_906a3_00000434.pdb**
+
+ | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |
+ | :--------------------- | :----------- | :----------- | :---- | :------------------- | :------------------ |
+ | 06-9a-03 | 00000080 | 00000434 | 2024-02-22 | 000906a3 |  (06-9a-03/00000080) (06-9a-04/00000080) |
+
+ | Codename | Stepping |
+ | :--- | :--- |
+ | Alder Lake-M 2+8 | R-0 |
+ | Alder Lake-P 2+8 | R-0 |
+ | Alder Lake-P 28 | R-0 |
+ | Arizona Beach | R-0 |
+ | Alder Lake-P 6+8 | L-0 |
+ | Alder Lake-P 68 | L-0 |
+ | Alder Lake-U 9W | R-0 |
+
+___
