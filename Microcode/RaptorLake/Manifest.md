@@ -100,3 +100,14 @@ ___
  | Raptor Lake-S-8161 + ADP-H, RPL-S-8161 + RPP-H | B-0 |
 
  ___
+**File Name: m_32_b0671_00000129.pdb**
+
+ | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |
+ | :--------------------- | :----------- | :----------- | :---- | :------------------- | :------------------ |
+ | 06-b7-01 | 00000032 | 00000129 | 2024-07-18 | 000b0671 |  |
+
+ | Codename | Stepping |
+ | :--- | :--- |
+ | Raptor Lake-S-8161 + ADP-H, RPL-S-8161 + RPP-H | B-0 |
+
+___
