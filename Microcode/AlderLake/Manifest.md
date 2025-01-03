@@ -1,4 +1,4 @@
-q___
+___
 **File Name: m_07_90672_00000023.pdb**
 
  | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |
@@ -101,6 +101,123 @@ ___
 ___  
 
 ___
+**File Name: m_07_90672_00000036.pdb**
+
+ | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |
+ | :--------------------- | :----------- | :----------- | :---- | :------------------- | :------------------ |
+ | 06-97-02 | 00000007 | 00000036 | 2024-02-22 | 00090672 |  (06-97-02/00000007) (06-97-05/00000007) (06-bf-02/00000007) (06-bf-05/00000007) |
+
+ | Codename | Stepping |
+ | :--- | :--- |
+ | Alder Lake-HX 8+8 BGA | C-0 |
+ | Alder Lake-HX 8+8 | C-0 |
+ | Alder Lake-S 6+0 LGA | H-0 |
+ | Alder Lake-S 8+8 LGA | C-0 |
+ | Alder Lake-S 8+8 | C-0 |
+ | Alder Lake-S 6+0 LGA | K-0 |
+ | Alder Lake-S 6+0 | H-0 |
+ | Alder Lake-S LGA | H-0 |
+ | RPL-S-881 LGA + ADP-H | C-0 |
+ | Raptor Lake-HX 8+8 BGA | C-0 |
+ | Raptor Lake-S 8+8 LGA | C-0 |
+ | RPL-S-881 LGA + ADP-H | C-0 |
+ | Raptor Lake-S 6+0 LGA | H-0 |
+ | Raptor Lake-S Refresh 6+0 LGA | H-0 |
+
+___
+
+___
+**File Name: m_11_b06e0_00000012.pdb**
+
+ | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |
+ | :--------------------- | :----------- | :----------- | :---- | :------------------- | :------------------ |
+ | 06-be-00 | 00000011 | 00000012 | 2023-06-26 | 000b06e0 |  |
+
+ | Codename | Stepping |
+ | :--- | :--- |
+ | Alder Lake N | N-0 |
+ | Alder Lake-N | A-0 |
+
+___
+
+___
+
+
+**File Name: m_11_b06e0_00000017.pdb**  
+  
+ | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |  
+ | :--------------------- | :----------- | :----------- | :---- | :------------------- | :------------------ |  
+ | 06-be-00 | 00000011 | 00000017 | 2023-12-07 | 000b06e0 |  |  
+  
+ | Codename | Stepping |  
+ | :--- | :--- |  
+ | Alder Lake N | N-0 |  
+ | Alder Lake-N | A-0 |  
+ | Twin Lake | N-0 |  
+  
+___  
+
+___  
+**File Name: m_19_b06e0_0000001c.pdb**  
+  
+ | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |  
+ | :--------------------- | :----------- | :----------- | :---- | :------------------- | :------------------ |  
+ | 06-be-00 | 00000019 | 0000001c | 2024-09-06 | 000b06e0 |  |  
+  
+ | Codename | Stepping |  
+ | :--- | :--- |  
+ | Alder Lake N | N-0 |  
+ | Alder Lake-N | A-0 |  
+ | Twin Lake | N-0 |  
+  
+___  
+
+___
+**File Name: m_40_906a4_00000007.pdb**
+
+ | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |
+ | :--------------------- | :----------- | :----------- | :---- | :------------------- | :------------------ |
+ | 06-9a-04 | 00000040 | 00000007 | 2023-12-07 | 000906a4 |  |
+
+ | Codename | Stepping |
+ | :--- | :--- |
+ | Arizona Beach | A-0 |
+ | Arizona Beach | R-0 |
+
+___
+
+___
+**File Name: m_40_906a4_00000008.pdb**
+
+ | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |
+ | :--------------------- | :----------- | :----------- | :---- | :------------------- | :------------------ |
+ | 06-9a-04 | 00000040 | 00000008 | 2024-02-15 | 000906a4 |  |
+
+ | Codename | Stepping |
+ | :--- | :--- |
+ | Arizona Beach | A-0 |
+ | Arizona Beach | R-0 |
+
+
+
+
+___  
+
+___
+**File Name: m_40_906a4_00000009.pdb**
+
+ | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |
+ | :--------------------- | :----------- | :----------- | :---- | :------------------- | :------------------ |
+ | 06-9a-04 | 00000040 | 00000009 | 2024-07-29 | 000906a4 |  |
+
+ | Codename | Stepping |
+ | :--- | :--- |
+ | Arizona Beach | A-0 |
+ | Arizona Beach | R-0 |
+
+___
+
+___
 **File Name: m_80_906a3_00000421.pdb**
 
  | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |
@@ -197,88 +314,6 @@ ___
 ___  
 
 ___
-**File Name: m_40_906a4_00000007.pdb**
-
- | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |
- | :--------------------- | :----------- | :----------- | :---- | :------------------- | :------------------ |
- | 06-9a-04 | 00000040 | 00000007 | 2023-12-07 | 000906a4 |  |
-
- | Codename | Stepping |
- | :--- | :--- |
- | Arizona Beach | A-0 |
- | Arizona Beach | R-0 |
-
-___
-
-___
-**File Name: m_11_b06e0_00000012.pdb**
-
- | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |
- | :--------------------- | :----------- | :----------- | :---- | :------------------- | :------------------ |
- | 06-be-00 | 00000011 | 00000012 | 2023-06-26 | 000b06e0 |  |
-
- | Codename | Stepping |
- | :--- | :--- |
- | Alder Lake N | N-0 |
- | Alder Lake-N | A-0 |
-
-___
-
-___
-**File Name: m_40_906a4_00000008.pdb**
-
- | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |
- | :--------------------- | :----------- | :----------- | :---- | :------------------- | :------------------ |
- | 06-9a-04 | 00000040 | 00000008 | 2024-02-15 | 000906a4 |  |
-
- | Codename | Stepping |
- | :--- | :--- |
- | Arizona Beach | A-0 |
- | Arizona Beach | R-0 |
-
-___
-
-___
-**File Name: m_07_90672_00000036.pdb**
-
- | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |
- | :--------------------- | :----------- | :----------- | :---- | :------------------- | :------------------ |
- | 06-97-02 | 00000007 | 00000036 | 2024-02-22 | 00090672 |  (06-97-02/00000007) (06-97-05/00000007) (06-bf-02/00000007) (06-bf-05/00000007) |
-
- | Codename | Stepping |
- | :--- | :--- |
- | Alder Lake-HX 8+8 BGA | C-0 |
- | Alder Lake-HX 8+8 | C-0 |
- | Alder Lake-S 6+0 LGA | H-0 |
- | Alder Lake-S 8+8 LGA | C-0 |
- | Alder Lake-S 8+8 | C-0 |
- | Alder Lake-S 6+0 LGA | K-0 |
- | Alder Lake-S 6+0 | H-0 |
- | Alder Lake-S LGA | H-0 |
- | RPL-S-881 LGA + ADP-H | C-0 |
- | Raptor Lake-HX 8+8 BGA | C-0 |
- | Raptor Lake-S 8+8 LGA | C-0 |
- | RPL-S-881 LGA + ADP-H | C-0 |
- | Raptor Lake-S 6+0 LGA | H-0 |
- | Raptor Lake-S Refresh 6+0 LGA | H-0 |
-
-___
-___  
-**File Name: m_11_b06e0_00000017.pdb**  
-  
- | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |  
- | :--------------------- | :----------- | :----------- | :---- | :------------------- | :------------------ |  
- | 06-be-00 | 00000011 | 00000017 | 2023-12-07 | 000b06e0 |  |  
-  
- | Codename | Stepping |  
- | :--- | :--- |  
- | Alder Lake N | N-0 |  
- | Alder Lake-N | A-0 |  
- | Twin Lake | N-0 |  
-  
-___  
-
-___
 **File Name: m_80_906a3_00000434.pdb**
 
  | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |
@@ -294,19 +329,5 @@ ___
  | Alder Lake-P 6+8 | L-0 |
  | Alder Lake-P 68 | L-0 |
  | Alder Lake-U 9W | R-0 |
-
-___
-
-___
-**File Name: m_40_906a4_00000009.pdb**
-
- | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |
- | :--------------------- | :----------- | :----------- | :---- | :------------------- | :------------------ |
- | 06-9a-04 | 00000040 | 00000009 | 2024-07-29 | 000906a4 |  |
-
- | Codename | Stepping |
- | :--- | :--- |
- | Arizona Beach | A-0 |
- | Arizona Beach | R-0 |
 
 ___
