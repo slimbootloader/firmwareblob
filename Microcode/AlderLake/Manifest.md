@@ -172,6 +172,21 @@ ___
   
 ___  
 
+___  
+**File Name: m_19_b06e0_0000001d.pdb**  
+  
+ | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |  
+ | :--------------------- | :----------- | :----------- | :---- | :------------------- | :------------------ |  
+ | 06-be-00 | 00000019 | 0000001d | 2024-12-06 | 000b06e0 |  |  
+  
+ | Codename | Stepping |  
+ | :--- | :--- |  
+ | Alder Lake N | N-0 |  
+ | Alder Lake-N | A-0 |  
+ | Twin Lake | N-0 |  
+  
+___
+  
 ___
 **File Name: m_40_906a4_00000007.pdb**
 
