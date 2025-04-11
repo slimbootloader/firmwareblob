@@ -123,3 +123,21 @@ ___
 
 ___
 
+___  
+**File Name: m_e0_b06a2_00004124.pdb**  
+  
+ | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |  
+ | :--------------------- | :----------- | :----------- | :---- | :------------------- | :------------------ |  
+ | 06-ba-02 | 000000e0 | 00004124 | 2024-07-31 | 000b06a2 |  (06-ba-02/000000e0) (06-ba-03/000000e0) (06-ba-08/000000e0) |  
+  
+ | Codename | Stepping |  
+ | :--- | :--- |  
+ | Raptor Lake-H 6+8 | J-0 |  
+ | Raptor Lake-H Refresh 6+8 BGA | J-0 |  
+ | Raptor Lake-H Refresh 6+8 | J-0 |  
+ | Raptor Lake-H/P/PX 6+8 | J-0 |  
+ | Raptor Lake-U 2+8 | Q-0 |  
+ | Raptor Lake-U Refresh 2+8 | Q-0 |  
+ | Unannounced | N/A |  
+  
+___  
