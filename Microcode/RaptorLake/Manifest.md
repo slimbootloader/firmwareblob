@@ -141,3 +141,20 @@ ___
  | Unannounced | N/A |  
   
 ___  
+
+___  
+**File Name: m_32_b0671_0000012e.pdb**  
+  
+ | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |  
+ | :--------------------- | :----------- | :----------- | :---- | :------------------- | :------------------ |  
+ | 06-b7-01 | 00000032 | 0000012e | 2025-01-15 | 000b0671 |  (06-b7-01/00000032) (06-b7-04/00000032) |  
+  
+ | Codename | Stepping |  
+ | :--- | :--- |  
+ | Raptor Lake-HX 8+16 BGA | B-0 |  
+ | Raptor Lake-HX Refresh 8+16 BGA | B-0 |  
+ | Raptor Lake-S Refresh 8+16 LGA | B-0 |  
+ | Raptor Lake-S-8161 + ADP-H, RPL-S-8161 + RPP-H | B-0 |  
+ | Unannounced | N/A |  
+  
+___  
