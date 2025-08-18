@@ -233,6 +233,46 @@ ___
 ___
 
 ___
+**File Name: m_40_906a4_0000000a.pdb**
+
+ | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |
+ | :--------------------- | :----------- | :----------- | :---- | :------------------- | :------------------ |
+ | 06-9a-04 | 00000040 | 0000000A | 2024-12-06| 000906a4 |  |
+
+ | Codename | Stepping |
+ | :--- | :--- |
+ | Arizona Beach | A-0 |
+ | Arizona Beach | R-0 |
+
+___
+___
+**File Name: m_40_906a4_0000000b.pdb**
+
+ | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |
+ | :--------------------- | :----------- | :----------- | :---- | :------------------- | :------------------ |
+ | 06-9a-04 | 00000040 | 0000000B | 2025-18-06 | 000906a4 |  |
+
+ | Codename | Stepping |
+ | :--- | :--- |
+ | Arizona Beach | A-0 |
+ | Arizona Beach | R-0 |
+
+___
+
+___
+**File Name: m_40_906a4_0000000c.pdb**
+
+ | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |
+ | :--------------------- | :----------- | :----------- | :---- | :------------------- | :------------------ |
+ | 06-9a-04 | 00000040 | 0000000C | 2025-05-08 | 000906a4 |  |
+
+ | Codename | Stepping |
+ | :--- | :--- |
+ | Arizona Beach | A-0 |
+ | Arizona Beach | R-0 |
+
+___
+___
 **File Name: m_80_906a3_00000421.pdb**
 
  | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |
@@ -368,20 +408,6 @@ ___
  | RPL-S-881 LGA + ADP-H | C-0 |
  | Raptor Lake-S 6+0 LGA | H-0 |
  | Raptor Lake-S Refresh 6+0 LGA | H-0 |
-
-___
-
-___
-**File Name: m_40_906a4_0000000b.pdb**
-
- | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |
- | :--------------------- | :----------- | :----------- | :---- | :------------------- | :------------------ |
- | 06-9a-04 | 00000040 | 0000000B | 2025-18-06 | 000906a4 |  |
-
- | Codename | Stepping |
- | :--- | :--- |
- | Arizona Beach | A-0 |
- | Arizona Beach | R-0 |
 
 ___
 
