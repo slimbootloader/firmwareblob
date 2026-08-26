@@ -175,22 +175,47 @@ ___
  | Unannounced | N/A |  
 ___  
 
-___  
-**File Name: m_32_b0671_00000133.pdb**  
-  
- | Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |  
- | :--------------------- | :----------- | :----------- | :---- | :------------------- | :------------------ |  
- | 06-b7-01 | 00000032 | 00000133 | 2025-10-08 | 000b0671 |  (06-b7-01/00000032) (06-b7-04/00000032) |  
-  
- | Codename | Stepping |  
- | :--- | :--- |  
- | Raptor Lake-HX 8+16 BGA | B-0 |  
- | Raptor Lake-HX Refresh 8+16 BGA | B-0 |  
- | Raptor Lake-S Refresh 8+16 LGA | B-0 |  
- | Raptor Lake-S-8161 + ADP-H, RPL-S-8161 + RPP-H | B-0 |  
- | Unannounced | N/A |  
-  
-___  
+___
+**File Name: m_36_b0671_00000137.pdb**
+ 
+| Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |
+| :--------------------- | :----------- | :----------- | :---- | :------------------- | :------------------ |
+| 06-b7-01 | 00000036 | 00000137 | 2026-02-18 | 000b0671 |  (06-b7-01/00000036) (06-b7-04/00000036) (06-d7-00/00000036) |
+ 
+| Codename | Stepping |
+| :--- | :--- |
+| BTL-S 12P Non Hybrid | A-0 |
+| Raptor Lake-HX 8+16 BGA | B-0 |
+| Raptor Lake-HX Refresh 8+16 BGA | B-0 |
+| Raptor Lake-S Refresh 8+16 LGA | B-0 |
+| Raptor Lake-S-8161 + ADP-H, RPL-S-8161 + RPP-H | B-0 |
+| Unannounced | N/A |
+ 
+___
+
+ 
+___
+**File Name: 06-b7-01**
+ 
+| Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |
+| :--------------------- | :----------- | :----------- | :---- | :------------------- | :------------------ |
+| 06-b7-01 | 00000036 | 00000137 | 2026-02-18 | 000b0671 |  (06-b7-01/00000036) (06-b7-04/00000036) (06-d7-00/00000036) |
+ 
+___
+**File Name: 06-b7-04**
+ 
+| Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |
+| :--------------------- | :----------- | :----------- | :---- | :------------------- | :------------------ |
+| 06-b7-01 | 00000036 | 00000137 | 2026-02-18 | 000b0671 |  (06-b7-01/00000036) (06-b7-04/00000036) (06-d7-00/00000036) |
+ 
+___
+**File Name: 06-d7-00**
+ 
+| Family-Model-Stepping | Platform ID | Revision ID | Date | Processor Signature | Extended Signature |
+| :--------------------- | :----------- | :----------- | :---- | :------------------- | :------------------ |
+| 06-b7-01 | 00000036 | 00000137 | 2026-02-18 | 000b0671 |  (06-b7-01/00000036) (06-b7-04/00000036) (06-d7-00/00000036) |
+ 
+___
 
 ___  
 **File Name: m_04_d0670_00000005.pdb**  
